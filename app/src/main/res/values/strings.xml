@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">ContestFinder</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="contestDBDSSchemaItemFormActivity"></string>
+    <string formatted="false" name="contestFinderMain">ContestFinder</string>
+    <string formatted="false" name="categoriesActivity">Coding Contests</string>
+    <string formatted="false" name="contestActivity">Contest</string>
+    <string formatted="false" name="previousContestActivity">Previous Contest</string>
+</resources>
+
+
