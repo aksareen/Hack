@@ -11,4 +11,6 @@ keep track of upcoming coding competitions online. The Application makes use of 
 
  The details of all past contest are stored on Cloudant NoSQL DB.
 
- The backend service will fetch upcoming contest and update the data store.
+ The backend service will fetch upcoming contest details via a third party API such as https://contesttrackerapi.herokuapp.com/  and update the data store.
+
+ The mobile will help the busy developers keep track of their contest and make sure they never miss any practice to win and improve their skills.
